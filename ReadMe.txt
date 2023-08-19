@@ -1,0 +1,2 @@
+Bu sınıflandırma şablonu ile bir çok sınıflandırma uygulaması yapılabilir,hiperparametreler değiştilirken görüntü boyutlarına ve tensorlerin boyutlarına dikkat edilmelidir.
+Kullanılan veris setinin azlığı doğruluk üzerinde bir sınırlandırmaya sebep olmuştur.
